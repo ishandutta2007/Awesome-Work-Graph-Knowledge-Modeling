@@ -60,7 +60,7 @@ The table below lists leading SaaS and enterprise-grade hosted platforms providi
 
 The following open-source projects provide developer-led graph databases, metadata lineage catalogs, and GraphRAG knowledge extraction frameworks. Entries are sorted in descending order by GitHub stargazers count. 💻⭐
 
-| Project | GitHub Stars | Primary Language / Stack | License | Description & Architectural Role |
+| Project | GitHub_Stars | Primary Language / Stack | License | Description & Architectural Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** 🧠 | [![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers) | Python | MIT | Modular pipeline utilizing LLMs to construct graph-based knowledge representations from raw workplace text, performing community detection and hierarchical summarization for complex multi-hop queries. |
 | **[Dgraph](https://github.com/dgraph-io/dgraph)** ⚡ | [![Stars](https://img.shields.io/github/stars/dgraph-io/dgraph?style=social&color=white)](https://github.com/dgraph-io/dgraph/stargazers) | Go | Apache-2.0 | High-performance distributed graph database with native GraphQL execution and GraphQL+- query syntax, designed for low-latency enterprise knowledge modeling and microservices. |
@@ -134,8 +134,8 @@ Your support keeps this curated catalog up-to-date and thriving! 🙏
 We welcome contributions from knowledge engineers, graph database architects, and workplace intelligence practitioners! 🛠️
 
 1. **Fork the repository** to your personal GitHub account.
-2. **Add or refine** tools in `README.md` maintaining table formatting, verified pricing data, and GitHub star badges.
-3. Ensure open-source additions include valid GitHub links, active maintenance, and accurate star badge links.
+2. **Add or refine** tools in `README.md` maintaining table formatting, verified pricing data, and GitHub Stars_Badges.
+3. Ensure open-source additions include valid GitHub links, active maintenance, and accurate Stars_Badge links.
 4. **Submit a Pull Request** with a succinct description of changes and references for pricing or documentation.
 
 ---
